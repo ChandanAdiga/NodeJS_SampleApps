@@ -1,0 +1,16 @@
+{
+  "name": "com.adiga.node1",
+  "version": "1.0.0",
+  "description": "Sample NodeJS app",
+  "main": "index.js",
+  "scripts": {
+    "test": "testme"
+  },
+  "author": "Chandan Adiga",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "serve-favicon": "^2.5.0"
+  }
+}
