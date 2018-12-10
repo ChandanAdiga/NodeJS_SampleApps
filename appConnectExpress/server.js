@@ -9,7 +9,7 @@ const server = http.createServer(app)
 server.listen(port);
 // server.on('error',onError);
 // server.on('listening',onListening);
-console.log('\nappConnectExpress Server is running successfully @ http:localhost:'+PORT_ADD);
+console.log('\nappConnectExpress Server is running successfully @ http://localhost:'+PORT_ADD);
 
 function normalizePort(val) {
     var port = parseInt(val,10);

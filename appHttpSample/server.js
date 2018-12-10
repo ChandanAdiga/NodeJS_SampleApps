@@ -158,5 +158,5 @@ server.listen(PORT_ADD, (err) => {
         return console.log('something bad happened', err)
     }
 
-    console.log('\nappHttpSample Server is running successfully @ http:localhost:'+PORT_ADD);
+    console.log('\nappHttpSample Server is running successfully @ http://localhost:'+PORT_ADD);
 })

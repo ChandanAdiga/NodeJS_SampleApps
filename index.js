@@ -3,7 +3,10 @@
 require('./appCalc/index')
 
 //Ex: HTTP server
-require('./appHttpSample/index')
+require('./appHttpSample/server')
 
 //Ex: Connect + Express
-require('./appConnectExpress/index')
+require('./appConnectExpress/server')
+
+//Ex: Connect + Express + MonogoDB
+require('./appRESTSample/server')
