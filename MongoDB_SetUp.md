@@ -1,31 +1,37 @@
 
 
-#INSTALLATION:
-'''
+### INSTALLATION:
+    
+    ```
     $brew update
 
     $sudo chown -R $(whoami) $(brew --prefix)/*
 
     $rew install mongodb
-'''
+    
+    ```
 
-#Default uses /data/db
-'''
+### Default uses /data/db
+    
+    ```
     $mongod 
-'''
+    
+    ```
 
-#Use this to specify other destination..
-'''
+### Use below command to specify other destination..
+
+    ```
     $mongod --dbpath Documents/mongodb/data/db 
-'''
+    
+    ```
 
-#Will run MongoDB server on 'mongodb://localhost:27017'
+### Will run MongoDB server on 'mongodb://localhost:27017'
 
-#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+##### ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-#USAGE:
-#To create Database, open up new terminal and 
-'''
+### USAGE:
+### To create Database, open up new terminal and 
+    ```
     $mongo ENTER
     > show dbs
     admin                  0.000GB
@@ -39,4 +45,4 @@
     items
     >CTRL+D
     $
-'''
+    ```
