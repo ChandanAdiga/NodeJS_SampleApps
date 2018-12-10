@@ -9,7 +9,7 @@ Sample apps developped while learning NodeJS.
 
 3. Install MongoDB
 
-4. Start mongo server and create a Dabase with name: 'sample_item_inventory' More details [here](MongoDB_SetUP.md).
+4. Start mongo server and create a Dabase with name: 'sample_item_inventory' More details [here](https://github.com/ChandanAdiga/NodeJS_SampleApps/blob/master/MongoDB_SetUp.md).
 
 3. From terminal, navigate to this repo's root folder and run:
     ```
