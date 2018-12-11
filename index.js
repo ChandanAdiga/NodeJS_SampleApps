@@ -7,6 +7,3 @@ require('./appHttpSample/server')
 
 //Ex: Connect + Express
 require('./appConnectExpress/server')
-
-//Ex: Connect + Express + MonogoDB
-require('./appRESTSample/server')

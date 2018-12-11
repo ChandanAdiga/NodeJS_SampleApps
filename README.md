@@ -7,10 +7,6 @@ Sample apps developped while learning NodeJS.
 
 2. Install [NodeJS](https://nodejs.org/en/download/)
 
-3. Install MongoDB
-
-4. Start mongo server and create a Dabase with name: 'sample_item_inventory' More details [here](https://github.com/ChandanAdiga/NodeJS_SampleApps/blob/master/MongoDB_SetUp.md).
-
 3. From terminal, navigate to this repo's root folder and run:
     ```
     npm update
@@ -19,3 +15,6 @@ Sample apps developped while learning NodeJS.
     ```
     node index.js
     ```
+
+![Sample Screenshot of Project in Atom editor, with server URL opened in chromium browser](http://url/to/img.png)
+[here](https://github.com/ChandanAdiga/NodeJS_SampleApps/blob/master/Screenshot_NodeJS_SampleApps.png).
