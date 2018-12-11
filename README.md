@@ -16,5 +16,4 @@ Sample apps developped while learning NodeJS.
     node index.js
     ```
 
-![Sample Screenshot of Project in Atom editor, with server URL opened in chromium browser](http://url/to/img.png)
-[here](https://github.com/ChandanAdiga/NodeJS_SampleApps/blob/master/Screenshot_NodeJS_SampleApps.png).
+![Sample Screenshot of Project in Atom editor, with server URL opened in chromium browser](https://github.com/ChandanAdiga/NodeJS_SampleApps/blob/master/Screenshot_NodeJS_SampleApps.png)
